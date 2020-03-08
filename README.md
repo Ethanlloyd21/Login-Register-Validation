@@ -1,4 +1,5 @@
 # Login-Register-Validation
+A simple application that creates and validates user name and password. The application also restores the session so the user won't log in again if the browser is accidentally closed. The password are encrypted on the database for security purposes.
 
 ## Dependencies
 * npm install
